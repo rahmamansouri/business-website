@@ -1,0 +1,71 @@
+* {
+	padding: auto;
+	margin: 0;
+
+}
+
+h1,h2 
+{
+font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+	font-size: 100px;
+	line-height: 150px;
+color:#1C3C6D;
+
+}
+
+h2 {
+	font-size: 30px;
+		line-height: 0px;
+font-style: normal;
+font-weight: 500px;
+    color:#1C3C6D;
+
+}
+
+body {
+  background: url("Vector.png") no-repeat right fixed; 
+
+
+
+}
+
+
+
+.intro {
+position: absolute;
+left: 6.94%;
+right: 81.2%;
+top: 26.17%;
+bottom: 68.75%;}
+
+.loc
+{
+
+margin-left: 50px;
+font-family: Poppins;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 36px;
+width: 180px;
+border-radius: 50px;
+    
+
+
+
+}
+
+.btn-primary 
+{
+	background-color: #1C3C6D;
+	border-color: #1C3C6D;
+}
+
+.btn-secondary {
+		background-color: #C71A6D;
+	border-color: #C71A6D;
+}

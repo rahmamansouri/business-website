@@ -1,0 +1,41 @@
+* {
+	padding: auto;
+	margin: 0;
+
+}
+body{
+	color: #1C3C6D;
+}
+footer{
+	background-color: #1C3C6D;
+}
+.navbarx{
+	margin-left: auto;
+	padding-right: 30px;
+}
+.imgbar{
+	padding-left: 40px;
+	margin:10px;
+}
+.barx{
+	padding-left: 15px;
+	padding-right: 15px;
+	color: #1C3C6D;
+
+
+}
+.barx:hover{
+	color: #C71A6D;
+	text-decoration: none;
+	transition-property: 0.4s;
+}
+.page{
+	margin: 60px;
+}
+img{
+	margin: 10px;
+}
+h1{
+	padding-left: 87px;
+
+}
